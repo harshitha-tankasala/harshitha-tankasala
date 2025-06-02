@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @harshitha-tankasala  
-- 👀 I’m interested in data analytics, business intelligence, and finance  
-- 🌱 I’m currently building interactive dashboards with SQL,Power BI,Tableau
-- 💞️ I’m looking to collaborate on impactful analytics projects that drive business growth  
-- 📫 How to reach me: tankasalaharshitha@gmail.com | [LinkedIn](https://www.linkedin.com/in/harshitha-tankasala-6583b4360/)  
+- <img src="assets/banner.png" alt="GitHub banner" width="100%" />
+
+# 👋 Hello, I’m Harshitha Tankasala
+
+🎓 Master’s student at Stevens Institute of Technology  
+📍 Based in NYC | 📈 Finance Enthusiast | 💡 Business Strategist  
+
+I’m passionate about using **data-driven insights** to make smart, strategic decisions. With a background in **business development** in India’s manufacturing sector and growing expertise in **business analytics**, I’m here to build solutions that drive real impact.
+
+---
+
+### 💼 What I’m Into
+- Business Intelligence (Power BI, Tableau, SQL)
+- Financial analytics & dashboards
+- Strategy, growth, and building scalable businesses
+- Volunteering & purpose-driven leadership
+
+---
+
+### 💬 Let’s connect
+📫 Email: tankasalaharshitha@gmail.com
+🔗 LinkedIn:  [LinkedIn](https://www.linkedin.com/in/harshitha-tankasala-6583b4360/)
+🏙️ Tagline: **Data • Strategy • Finance**
+
+---
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love volunteering and drinking,but indian chai only :)
+*Thanks for visiting my profile — let’s build something smart and meaningful!*
+ 
+ 
+
 
 
 <!---
