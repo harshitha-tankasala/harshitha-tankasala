@@ -5,7 +5,7 @@
 🎓 Master’s student at Stevens Institute of Technology  
 📍 Based in NYC | 📈 Finance Enthusiast | 💡 Business Strategist  
 
-I’m passionate about using **data-driven insights** to make smart, strategic decisions. With a background in **business development** in India’s manufacturing sector and growing expertise in **business analytics**, I’m here to build solutions that drive real impact.
+I’m passionate about using **data-driven insights** to make smart, strategic decisions. With a background in **business development** in India’s manufacturing sector of technical textiles and growing expertise in **business analytics**, I’m here to build solutions that drive real impact.
 
 ---
 
@@ -20,11 +20,12 @@ I’m passionate about using **data-driven insights** to make smart, strategic d
 ### 💬 Let’s connect
 📫 Email: tankasalaharshitha@gmail.com
 🔗 LinkedIn:  [LinkedIn](https://www.linkedin.com/in/harshitha-tankasala-6583b4360/)
-🏙️ Tagline: **Data • Strategy • Finance**
+🏙️  **Data • Strategy • Finance**
 
 ---
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love volunteering and drinking,but indian chai only :)
+  
 *Thanks for visiting my profile — let’s build something smart and meaningful!*
  
  
