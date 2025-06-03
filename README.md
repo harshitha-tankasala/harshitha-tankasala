@@ -1,4 +1,4 @@
-- <img src="assets/banner.png" alt="GitHub banner" width="100%" />
+- <img src="https://github.com/harshitha-tankasala/harshitha-tankasala/blob/main/untitled.png" alt="GitHub banner" width="100%" />
 
 # 👋 Hello, I’m Harshitha Tankasala
 
